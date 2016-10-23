@@ -1,0 +1,6 @@
+c:\users\владислав\documents\visual studio 2015\Projects\hw12\hw12\bin\Debug\hw12.exe.config
+C:\Users\Владислав\documents\visual studio 2015\Projects\hw12\hw12\obj\Debug\hw12.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\documents\visual studio 2015\Projects\hw12\hw12\bin\Debug\hw12.exe
+C:\Users\Владислав\documents\visual studio 2015\Projects\hw12\hw12\bin\Debug\hw12.pdb
+C:\Users\Владислав\documents\visual studio 2015\Projects\hw12\hw12\obj\Debug\hw12.exe
+C:\Users\Владислав\documents\visual studio 2015\Projects\hw12\hw12\obj\Debug\hw12.pdb

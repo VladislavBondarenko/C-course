@@ -1,0 +1,6 @@
+c:\users\владислав\documents\visual studio 2015\Projects\hw9\hw9\bin\Debug\hw9.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw9\hw9\bin\Debug\hw9.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw9\hw9\bin\Debug\hw9.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw9\hw9\obj\Debug\hw9.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw9\hw9\obj\Debug\hw9.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw9\hw9\obj\Debug\hw9.pdb
