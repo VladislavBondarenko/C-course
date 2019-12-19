@@ -1,6 +1,0 @@
-c:\users\владислав\documents\visual studio 2015\Projects\hw11\hw11\bin\Debug\hw11.exe.config
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw11\hw11\bin\Debug\hw11.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw11\hw11\bin\Debug\hw11.pdb
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw11\hw11\obj\Debug\hw11.csprojResolveAssemblyReference.cache
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw11\hw11\obj\Debug\hw11.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw11\hw11\obj\Debug\hw11.pdb

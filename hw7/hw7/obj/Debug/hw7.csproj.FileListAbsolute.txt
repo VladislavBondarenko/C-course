@@ -1,6 +1,0 @@
-c:\users\владислав\documents\visual studio 2015\Projects\hw7\hw7\bin\Debug\hw7.exe.config
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw7\hw7\bin\Debug\hw7.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw7\hw7\bin\Debug\hw7.pdb
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw7\hw7\obj\Debug\hw7.csprojResolveAssemblyReference.cache
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw7\hw7\obj\Debug\hw7.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw7\hw7\obj\Debug\hw7.pdb

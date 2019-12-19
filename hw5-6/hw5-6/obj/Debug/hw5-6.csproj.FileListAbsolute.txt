@@ -1,9 +1,0 @@
-c:\users\владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\bin\Debug\hw5-6.exe.config
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\bin\Debug\hw5-6.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\bin\Debug\hw5-6.pdb
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\obj\Debug\hw5-6.csprojResolveAssemblyReference.cache
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\obj\Debug\hw5-6.exe
-C:\Users\Владислав\documents\visual studio 2015\Projects\hw5-6\hw5-6\obj\Debug\hw5-6.pdb
-C:\Users\Владислав\course\hw5-6\hw5-6\bin\Debug\hw5-6.exe.config
-C:\Users\Владислав\course\hw5-6\hw5-6\obj\Debug\hw5-6.exe
-C:\Users\Владислав\course\hw5-6\hw5-6\obj\Debug\hw5-6.pdb

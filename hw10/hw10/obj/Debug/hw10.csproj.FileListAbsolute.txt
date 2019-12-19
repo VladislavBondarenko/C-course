@@ -1,6 +1,0 @@
-c:\users\владислав\documents\visual studio 2015\Projects\hw10\hw10\bin\Debug\hw10.exe.config
-C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw10\hw10\bin\Debug\hw10.exe
-C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw10\hw10\bin\Debug\hw10.pdb
-C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw10\hw10\obj\Debug\hw10.csprojResolveAssemblyReference.cache
-C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw10\hw10\obj\Debug\hw10.exe
-C:\Users\Владислав\Documents\Visual Studio 2015\Projects\hw10\hw10\obj\Debug\hw10.pdb

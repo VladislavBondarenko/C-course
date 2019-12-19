@@ -1,6 +1,0 @@
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\bin\Debug\hw14.exe.config
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\bin\Debug\hw14.exe
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\bin\Debug\hw14.pdb
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\obj\Debug\hw14.csprojResolveAssemblyReference.cache
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\obj\Debug\hw14.exe
-c:\users\владислав\documents\visual studio 2015\Projects\hw14\hw14\obj\Debug\hw14.pdb
